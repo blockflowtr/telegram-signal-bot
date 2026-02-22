@@ -1,0 +1,28 @@
+{
+  "signals": {
+    "1771793477": {
+      "symbol": "BTCUSDT",
+      "side": "buy",
+      "entry": 55.0,
+      "stop": 55.0,
+      "tp1": 55.0,
+      "tp2": 55.0,
+      "tp1_hit": false,
+      "open": true,
+      "msg_id": 1267,
+      "admin_id": 7521014323
+    }
+  },
+  "stats": {
+    "7521014323": {
+      "tp1": 0,
+      "tp2": 0,
+      "loss": 0
+    },
+    "8334707563": {
+      "tp1": 0,
+      "tp2": 0,
+      "loss": 0
+    }
+  }
+}
